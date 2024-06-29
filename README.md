@@ -22,7 +22,7 @@ The dataset used in this project includes historical Bitcoin prices and associat
 - Volume
 - Other relevant features
 
-You can download a sample dataset from Kaggle [Bitcoin Historical Data]([https://www.kaggle.com/mczielinski/bitcoin-historical-data](https://www.kaggle.com/datasets/meetnagadia/bitcoin-stock-data-sept-17-2014-august-24-2021)).
+You can download a sample dataset from Kaggle => [Bitcoin Price Dataset](https://www.kaggle.com/datasets/meetnagadia/bitcoin-stock-data-sept-17-2014-august-24-2021).
 
 ## Feature Selection
 
